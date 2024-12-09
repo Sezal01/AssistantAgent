@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 Set up PostgreSQL and create tables for invoices.
 
-Configure API keys in .env.
+Configure API keys
 
 
 Setup
